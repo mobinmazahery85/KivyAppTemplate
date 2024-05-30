@@ -1,13 +1,13 @@
 [app]
 
 # (str) Title of your application
-title = KivymdIconList
+title = {{edit_here}}
 
 # (str) Package name
-package.name = KivymdIconList
+package.name = {{edit_here}}
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = com.mapplications
+package.domain = {{edit_here}}
 
 # (str) Source code where the main.py live
 source.dir = .
@@ -37,7 +37,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy==2.1.0,kivymd==1.1.1
+requirements = python3,kivy==2.1.0,kivymd==1.1.1  {{edit_here}}
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
