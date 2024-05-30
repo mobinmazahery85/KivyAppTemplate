@@ -1,2 +1,2 @@
-# KivymdIconList
+# KivyAppTemplate
 ## compiled by Mobin Mazaheri
